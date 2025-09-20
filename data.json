@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Camera",
+        "description": "High-resolution DSLR camera with interchangeable lenses, perfect for photography enthusiasts.",
+        "currentBidPrice": 250.00,
+        "timeLeft": "3h 15m",
+        "bidsCount": 10,
+        "image": "https://i.postimg.cc/Mpqmfh1J/Bid1-min.png"
+    },
+    {
+        "id": 2,
+        "title": "Electric Guitar",
+        "description": "Classic red electric guitar with a sleek design and powerful sound, ideal for both beginners and professionals.",
+        "currentBidPrice": 400.00,
+        "timeLeft": "1d 6h",
+        "bidsCount": 14,
+        "image": "https://i.postimg.cc/wjwLy36D/Bid2-min.png"
+    },
+    {
+        "id": 3,
+        "title": "MacBook",
+        "description": "Apple MacBook with M1 chip, 8GB RAM, and 256GB SSD storage, lightweight and high performance.",
+        "currentBidPrice": 950.00,
+        "timeLeft": "2d 12h",
+        "bidsCount": 25,
+        "image": "https://i.postimg.cc/nrf0RM9C/Bid3-min.png"
+    },
+    {
+        "id": 4,
+        "title": "Rolex Watch",
+        "description": "Luxury Rolex wristwatch made with stainless steel and gold accents, timeless elegance and precision.",
+        "currentBidPrice": 5200.00,
+        "timeLeft": "5h 45m",
+        "bidsCount": 32,
+        "image": "https://i.postimg.cc/d39m56Kx/Bid4-min.png"
+    },
+    {
+        "id": 5,
+        "title": "Invaluable Book",
+        "description": "Rare first edition of a classic novel, preserved in excellent condition with original binding.",
+        "currentBidPrice": 1500.00,
+        "timeLeft": "4d 2h",
+        "bidsCount": 18,
+        "image": "https://i.postimg.cc/wjnJcZmB/Bid5-min.png"
+    },
+    {
+        "id": 6,
+        "title": "Chair",
+        "description": "Ergonomic wooden chair with a modern design, comfortable and durable for everyday use.",
+        "currentBidPrice": 85.00,
+        "timeLeft": "8h 30m",
+        "bidsCount": 7,
+        "image": "https://i.postimg.cc/bY6Z94Xj/Bid6-min.png"
+    },
+    {
+        "id": 7,
+        "title": "Painting",
+        "description": "Hand-painted artwork on canvas featuring vibrant colors and abstract design, signed by the artist.",
+        "currentBidPrice": 2200.00,
+        "timeLeft": "3d 18h",
+        "bidsCount": 12,
+        "image": "https://i.postimg.cc/kMh5b88J/Bid7-min.png"
+    }
+]
