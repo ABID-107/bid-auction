@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100..900&family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+@plugin "daisyui";
+
+.bg-div{
+background-image: url(./assets/assets/Banner-min.jpg);
+background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 730px;
+  width: 100%;
+}
+
+body{
+  background-color: #D3DAD9;
+}
+ noto-serif-display-{
+  font-family: "Noto Serif Display", serif;
+  
+}
