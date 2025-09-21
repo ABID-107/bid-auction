@@ -6,7 +6,7 @@
         "currentBidPrice": 250.00,
         "timeLeft": "3h 15m",
         "bidsCount": 10,
-        "image": "https://i.postimg.cc/Mpqmfh1J/Bid1-min.png"
+        "image": "./../src/assets/assets/Bid1-min.png"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "currentBidPrice": 400.00,
         "timeLeft": "1d 6h",
         "bidsCount": 14,
-        "image": "https://i.postimg.cc/wjwLy36D/Bid2-min.png"
+        "image": "./../src/assets/assets/Bid2-min.png"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "currentBidPrice": 950.00,
         "timeLeft": "2d 12h",
         "bidsCount": 25,
-        "image": "https://i.postimg.cc/nrf0RM9C/Bid3-min.png"
+        "image": "./../src/assets/assets/Bid3-min.png"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "currentBidPrice": 5200.00,
         "timeLeft": "5h 45m",
         "bidsCount": 32,
-        "image": "https://i.postimg.cc/d39m56Kx/Bid4-min.png"
+        "image": "./../src/assets/assets/Bid4-min.png"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "currentBidPrice": 1500.00,
         "timeLeft": "4d 2h",
         "bidsCount": 18,
-        "image": "https://i.postimg.cc/wjnJcZmB/Bid5-min.png"
+        "image": "./../src/assets/assets/Bid5-min.png"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "currentBidPrice": 85.00,
         "timeLeft": "8h 30m",
         "bidsCount": 7,
-        "image": "https://i.postimg.cc/bY6Z94Xj/Bid6-min.png"
+        "image": "./../src/assets/assets/Bid6-min.png"
     },
     {
         "id": 7,
@@ -60,6 +60,6 @@
         "currentBidPrice": 2200.00,
         "timeLeft": "3d 18h",
         "bidsCount": 12,
-        "image": "https://i.postimg.cc/kMh5b88J/Bid7-min.png"
+        "image": "./../src/assets/assets/Bid7-min.png"
     }
 ]
